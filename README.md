@@ -12,4 +12,5 @@
 - multiplicar tiempoLlamada*costoPorLlamaday almacenar en resultado
 - presionar calcular
 - mostrar resultado
+
 *fin*
